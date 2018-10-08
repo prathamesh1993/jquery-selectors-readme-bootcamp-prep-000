@@ -16,5 +16,5 @@ function ninjaBabySelector(){
  }
  
  function firstListItem(){
-   return $('#pic-list ul :first-child')
+   return $('#pic-list ul:first-child')
  }
